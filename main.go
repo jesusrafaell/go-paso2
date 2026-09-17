@@ -14,11 +14,11 @@ import (
 
 
 var db *sql.DB
-var server = "10.198.72.11"
-var databaseName = "milpagos"
+var server = ""
+var databaseName = ""
 var port = 1433
-var user = "amendoza"
-var password = "Am1523246."
+var user = ""
+var password = ""
 
 func main() {
     // Build connection string
